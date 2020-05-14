@@ -15,9 +15,8 @@ end it is still tough to decipher... next time I think both solid commenting and
 <br>
 <div align="center"> 
   <h2> How to run: </h2>
-  I did not provide an exe so one can clone this repo and then navigate to NeuralNet.cpp for majority of the code. NeuralNetMain.cpp
-  acts as the driver. I tested this on Visual Studio 2015 and 2019.
 </div>
+I did not provide an exe so one can clone this repo and then navigate to NeuralNet.cpp for majority of the code. NeuralNetMain.cpp acts as the driver. I tested this on Visual Studio 2015 and 2019.
 
 <br>
 <div align="center"> 
