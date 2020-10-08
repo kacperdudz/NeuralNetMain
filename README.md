@@ -9,7 +9,7 @@ Skeleton neural network-- displays randomly sized neural net with random weights
 That is, a neural network skeleton with arbitrary values and weights.
 The "random" structure (# of layers and # of nodes per layer) is determined in the NeuralNetMain.cpp, whereas the actual code for the
 structure is present in the other cpp/h files. I think this was a lesson in naming convention mostly and commenting (or a lack thereof).
-I went trough a couple rounds of trying to name this structure and all components so I can make is as readable as possible but at the
+I went through a couple rounds of trying to name this structure and all components so I can make is as readable as possible but at the
 end it is still tough to decipher... next time I think both solid commenting and more obvious naming would go a long way.
 
 <br>
